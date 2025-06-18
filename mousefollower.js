@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         width: 40px;
         height: 40px;
         background: rgba(15, 18, 201, 0.18)   ;
+        filter: blur(20px);
         border-radius: 50%;
         pointer-events: none;
         z-index: 9999;
